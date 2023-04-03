@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\SnakeAndLadder\SnakeAndLadder\UC-5\UC-5\bin\Debug\net6.0\UC-5.exe
+C:\Users\USER\source\BL\SnakeAndLadder\SnakeAndLadder\UC-5\UC-5\bin\Debug\net6.0\UC-5.deps.json
+C:\Users\USER\source\BL\SnakeAndLadder\SnakeAndLadder\UC-5\UC-5\bin\Debug\net6.0\UC-5.runtimeconfig.json
+C:\Users\USER\source\BL\SnakeAndLadder\SnakeAndLadder\UC-5\UC-5\bin\Debug\net6.0\UC-5.dll
+C:\Users\USER\source\BL\SnakeAndLadder\SnakeAndLadder\UC-5\UC-5\bin\Debug\net6.0\UC-5.pdb
+C:\Users\USER\source\BL\SnakeAndLadder\SnakeAndLadder\UC-5\UC-5\obj\Debug\net6.0\UC-5.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\SnakeAndLadder\SnakeAndLadder\UC-5\UC-5\obj\Debug\net6.0\UC-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\SnakeAndLadder\SnakeAndLadder\UC-5\UC-5\obj\Debug\net6.0\UC-5.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\SnakeAndLadder\SnakeAndLadder\UC-5\UC-5\obj\Debug\net6.0\UC-5.AssemblyInfo.cs
+C:\Users\USER\source\BL\SnakeAndLadder\SnakeAndLadder\UC-5\UC-5\obj\Debug\net6.0\UC-5.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\SnakeAndLadder\SnakeAndLadder\UC-5\UC-5\obj\Debug\net6.0\UC-5.dll
+C:\Users\USER\source\BL\SnakeAndLadder\SnakeAndLadder\UC-5\UC-5\obj\Debug\net6.0\refint\UC-5.dll
+C:\Users\USER\source\BL\SnakeAndLadder\SnakeAndLadder\UC-5\UC-5\obj\Debug\net6.0\UC-5.pdb
+C:\Users\USER\source\BL\SnakeAndLadder\SnakeAndLadder\UC-5\UC-5\obj\Debug\net6.0\UC-5.genruntimeconfig.cache
+C:\Users\USER\source\BL\SnakeAndLadder\SnakeAndLadder\UC-5\UC-5\obj\Debug\net6.0\ref\UC-5.dll
